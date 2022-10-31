@@ -367,7 +367,14 @@ body {
   font-weight: 600;
   color: #fff;
   cursor: pointer;
+  border: 2px solid #439ff0;
 }
+
+.contact-form .btnContact:hover{
+  color: #439ff0;
+  background-color: #fff;
+}
+
 .btnContactSubmit {
   width: 50%;
   border-radius: 1rem;
